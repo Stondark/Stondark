@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado programador de software de 19 años de edad, orgullosamente colombiano. Mi formación como técnico en programación me ha brindado sólidos conocimientos y habilidades en el desarrollo de software.<br>Además de mi amor por la programación, tengo una gran pasión por la pedagogía. Me apasiona compartir mis conocimientos con los demás y ayudar a las personas a aprender y crecer en el ámbito tecnológico. Creo firmemente que la educación es el motor del progreso y estoy constantemente buscando oportunidades para enseñar y aprender de los demás.
+¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado programador de software. Mi formación como técnico en programación me ha brindado sólidos conocimientos y habilidades en el desarrollo de software.<br>Además de mi amor por la programación, tengo una gran pasión por la pedagogía. Me apasiona compartir mis conocimientos con los demás y ayudar a las personas a aprender y crecer en el ámbito tecnológico. Creo firmemente que la educación es el motor del progreso y estoy constantemente buscando oportunidades para enseñar y aprender de los demás.
 
 
 ## 🌐 Socials:
